@@ -1,0 +1,8 @@
+
+fname = input("please enter your first name: ").strip().capitalize()
+lname = input("please enter your last name: ")
+print(f"hello {fname} {lname} what do you thing")
+
+
+
+
